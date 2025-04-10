@@ -8,6 +8,7 @@ $(document).ready(function() {
         },
         out: {
             effect: "bounceOut",
+            effect: "bounceOut",
         },
     });
 });
